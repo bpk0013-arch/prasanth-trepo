@@ -88,7 +88,7 @@ Checkout,2345,500,false
 ### Option 1: Use the Executable (Recommended)
 **No installation required!**
 
-1. Download `Prasanth_TRepo_GUI_v2.exe` from [Releases](https://github.com/yourusername/prasanth-trepo/releases)
+1. Download `Prasanth_TRepo_GUI_v2.exe` from [Releases](https://github.com/bpk0013-arch/prasanth-trepo/releases)
 2. Double-click to run
 3. Select your JMeter JTL/CSV file
 4. Click "Generate Reports"
