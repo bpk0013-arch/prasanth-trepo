@@ -98,7 +98,7 @@ Checkout,2345,500,false
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/prasanth-trepo.git
+git clone https://github.com/bpk0013-arch/prasanth-trepo.git
 cd prasanth-trepo
 
 # Install dependencies
@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/prasanth-trepo&type=Date)](https://star-history.com/#yourusername/prasanth-trepo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bpk0013-arch/prasanth-trepo&type=Date)](https://star-history.com/#bpk0013-arch/prasanth-trepo&Date)
 
 ---
 
