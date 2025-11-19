@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test Reports (don't commit generated reports)
+test_reports/
+*.pdf
+*.xlsx
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Personal files
+*.bak
+*.old
+
+# Keep these folders but ignore contents
+!screenshots/.gitkeep
+!sample_data/.gitkeep
+
+# Except keep sample files
+!sample_data/sample_results.jtl
+!sample_data/sample_logo.png
+
+# Keep dist folder for executable
+!dist/.gitkeep
+!dist/Prasanth_TRepo_GUI_v2.exe
