@@ -153,8 +153,6 @@ python prasanth_trepo_gui_standalone.py
    - Click "Open Output Folder"
    - Share with stakeholders!
 
-### Video Tutorial
-📺 [Watch the 2-minute tutorial](https://youtu.be/your-video-link)
 
 ---
 
@@ -328,13 +326,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Need Help?
 - 📖 Check the [Documentation](README_FOR_USERS.txt)
-- 🐛 [Report an Issue](https://github.com/yourusername/prasanth-trepo/issues)
-- 💬 [Discussions](https://github.com/yourusername/prasanth-trepo/discussions)
+- 🐛 [Report an Issue](https://github.com/bpk0013-arch/prasanth-trepo/issues)
+- 💬 [Discussions](https://github.com/bpk0013-arch/prasanth-trepo/discussions)
 
 ### Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/prasanth-kumar-birupogu)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasanthbirupogu)
+- 📧 Email: bpk0013@gmail.com
 
 ---
 
@@ -386,14 +383,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🏆 Awards & Recognition
-
-- 🥇 Featured on [Platform Name]
-- 🌟 Trending on GitHub
-- 📰 Mentioned in [Publication]
-
----
-
 ## 💖 Support This Project
 
 If Prasanth TRepo saves you time and makes your life easier:
@@ -403,7 +392,6 @@ If Prasanth TRepo saves you time and makes your life easier:
 - 💬 **Write a testimonial**
 - 🐛 **Report bugs**
 - 💡 **Suggest features**
-- ☕ **Buy me a coffee** (optional)
 
 ---
 
@@ -470,7 +458,7 @@ Stay updated with the latest features and releases:
 - ⭐ Star this repo
 - 👁️ Watch for releases
 - 🔔 Enable notifications
-- 💼 Follow on [LinkedIn](https://www.linkedin.com/in/prasanth-kumar-birupogu)
+- 💼 Follow on [LinkedIn](https://www.linkedin.com/in/prasanthbirupogu)
 
 ---
 
@@ -478,9 +466,9 @@ Stay updated with the latest features and releases:
 
 ## 🚀 Ready to Transform Your JMeter Reports?
 
-### [Download Now](https://github.com/yourusername/prasanth-trepo/releases) | [View Demo](https://youtu.be/demo) | [Read Docs](README_FOR_USERS.txt)
+### [Download Now](https://github.com/bpk0013-arch/prasanth-trepo/releases) | [Read Docs](README_FOR_USERS.txt)
 
-**Made with ❤️ by [Prasanth Kumar Birupogu](https://www.linkedin.com/in/prasanth-kumar-birupogu)**
+**Made with ❤️ by [Prasanth Kumar Birupogu](https://www.linkedin.com/in/prasanthbirupogu)**
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
@@ -494,6 +482,6 @@ Stay updated with the latest features and releases:
 
 **Prasanth TRepo** - Professional JMeter Reports Made Simple
 
-[Website](https://yourwebsite.com) • [Documentation](README_FOR_USERS.txt) • [Issues](https://github.com/yourusername/prasanth-trepo/issues) • [Discussions](https://github.com/yourusername/prasanth-trepo/discussions)
+[Website]([https://yourwebsite.com](https://bpk0013-arch.github.io/portfolio/)) • [Documentation](README_FOR_USERS.txt) • [Issues](https://github.com/bpk0013-arch/prasanth-trepo/issues) • [Discussions](https://github.com/bpk0013-arch/prasanth-trepo/discussions)
 
 </div>
