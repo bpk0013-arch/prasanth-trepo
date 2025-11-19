@@ -413,7 +413,7 @@ If Prasanth TRepo saves you time and makes your life easier:
 
 ## 🔐 Security
 
-Found a security issue? Please email security@yourproject.com instead of opening a public issue.
+Found a security issue? Please email bpk0013@gmail.com instead of opening a public issue.
 
 ---
 
@@ -478,7 +478,7 @@ Stay updated with the latest features and releases:
 
 <div align="center">
 
-![Footer](screenshots/footer.png)
+
 
 **Prasanth TRepo** - Professional JMeter Reports Made Simple
 
