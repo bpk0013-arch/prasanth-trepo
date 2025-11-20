@@ -6,7 +6,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -59,13 +58,73 @@ test_reports/
 *.bak
 *.old
 
-# Keep these folders but ignore contents
-!screenshots/.gitkeep
-!sample_data/.gitkeep
+# Internal documentation (not needed in repo)
+ACTION_PLAN.md
+BEFORE_AFTER_COMPARISON.md
+BEFORE_AFTER_EXAMPLES.md
+COMPLETE_PACKAGE_SUMMARY.md
+COMPLETION_SUMMARY.md
+CREATE_RELEASE_NOW.md
+DEPLOYMENT_GUIDE.md
+DISTRIBUTION_PACKAGE.md
+DOCUMENTATION_INDEX.md
+DO_THIS_NOW.md
+ENHANCED_FEATURES.md
+ENHANCED_FEATURES_UPDATE.md
+ENHANCED_REPORT_FEATURES.md
+ENHANCEMENT_SUMMARY.md
+ERROR_HIGHLIGHTING_UPDATE.md
+EXECUTABLE_BUILD_GUIDE_V2.md
+EXE_BUILD_SUCCESS.md
+FINAL_ERROR_HIGHLIGHTING.md
+FINAL_SUMMARY.md
+FIXED_EXECUTABLE_GUIDE.md
+GITHUB_PUBLISHING_CHECKLIST.md
+GITHUB_SETUP.md
+GUI_COMPLETION.md
+GUI_FEATURES.md
+GUI_USER_GUIDE.md
+IMPLEMENTATION_COMPLETE.md
+IMPLEMENTATION_COMPLETE_V2.md
+JMETER_WORK_ANALYSIS.md
+LAUNCH_READY_SUMMARY.md
+LINKEDIN_POSTS.md
+LINKEDIN_POST_NO_SCREENSHOTS.md
+LINKEDIN_POST_READY.md
+LINKEDIN_SHORT_POST.md
+NEXT_STEPS.md
+PORTABLE_VERSION_README.md
+Prasanth_TRepo_GUI_README.md
+Prasanth_TRepo_GUI_USER_GUIDE.md
+Prasanth_TRepo_README.md
+PUSH_TO_GITHUB.md
+QUICK_GITHUB_SETUP.md
+QUICK_REFERENCE.md
+QUICK_REFERENCE_CARD.txt
+QUICK_STYLING_REFERENCE.txt
+REPORT_STYLING_GUIDE.md
+SCREENSHOT_GUIDE.md
+STANDALONE_EXECUTABLE_GUIDE.md
+STANDALONE_EXECUTABLE_README.md
+START_HERE.md
+TESTING_CHECKLIST.md
+TESTING_PLAN.md
+TRANSACTION_COLUMN_IMPROVEMENTS.md
+VERIFICATION_CHECKLIST.md
+VISUAL_EXAMPLES.md
+WHATS_NEW.md
 
-# Except keep sample files
-!sample_data/sample_results.jtl
-!sample_data/sample_logo.png
+# Old/unused files
+jmeter_report_generator_gui.py
+jmeter_report_generator_standalone.py
+build_executable.bat
+build_exe_simple.bat
+build_standalone.bat
+build_standalone.spec
+JMeter_Report_Generator.spec
+Launch_Report_Generator.bat
+Run_Prasanth_TRepo.bat
+Generate_Report.bat
 
 # Keep dist folder for executable
 !dist/.gitkeep
