@@ -361,7 +361,7 @@ def generate_pdf_report(transactions, overall, output_path, project_name, enviro
         ['Date:', datetime.now().strftime('%Y-%m-%d %H:%M:%S')]
     ]
     
-    project_table = Table(project_data, colWidths=[1.5*inch, 4*inch])
+    project_table = Table(project_data, colWidths=[2*inch, 4.5*inch])
     project_table.setStyle(TableStyle([
         ('BACKGROUND', (0, 0), (-1, -1), SKY_BLUE),
         ('TEXTCOLOR', (0, 0), (-1, -1), WHITE),
